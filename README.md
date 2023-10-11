@@ -36,7 +36,7 @@ Follow these steps to get the app up and running!
 
 1. **Clone the repo**
 ```sh
-git clone https://github.com/jpmorgan/weather-app.git
+git clone https://github.com/dtsema/Daniel-Tsema-Weather.git
 ```
 
 2. **Open in Android Studio**
