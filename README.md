@@ -69,8 +69,7 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 
 ## Acknowledgements
 
-- Weather data sourced from [SomeWeatherAPI](#).
-- Banner and icons designed by [SomeDesigner](#).
+- Weather data sourced from [openweathermap](https://openweathermap.org/).
 
 ---
 
